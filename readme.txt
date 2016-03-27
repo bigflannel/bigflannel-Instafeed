@@ -3,12 +3,12 @@ bigflannel Instafeed
 bigflannel Instafeed is a quick and easy way to display your Instagram photos in archive format on your own website. The code is HTML5/PHP/JS.
 
 bigflannel Instafeed Demo
-http://bigflannel.com/portfolio/instafeed
+DELETED
 
 
 Getting Started
 
-1. Visit http://bigflannel.com/portfolio/instagram and click on 'GET YOUR INSTAGRAM ID AND ACCESS TOKEN'. You will be directed to an Instagram login page, after logging in, you will be directed back to bigflannel.com where your 'USERNAME', 'USER ID' and 'ACCESS TOKEN' will be displayed. Copy this information and make a note of it.
+1. Visit [DELETED] and click on 'GET YOUR INSTAGRAM ID AND ACCESS TOKEN'. You will be directed to an Instagram login page, after logging in, you will be directed back to bigflannel.com where your 'USERNAME', 'USER ID' and 'ACCESS TOKEN' will be displayed. Copy this information and make a note of it.
 
 2. Open 'conf.php' and add your Instagram user id and access token as the variables $userID and $accessToken.
 
@@ -43,7 +43,7 @@ or set the logo file's address using 'logoFile':
 and the text and address of the link using 'siteLinkText' and 'siteLinkAddress':
 
 'siteLinkText' => 'bigflannel Portfolio',
-'siteLinkAddress' => 'http://bigflannel.com/portfolio/light'
+'siteLinkAddress' => 'http://example.com'
 
 
 License
